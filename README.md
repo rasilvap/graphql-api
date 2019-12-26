@@ -1,3 +1,12 @@
 # graphql-api
 
-This project is an API built with graphql, Apollo server, mongoDB, adn reactJS.
+This project is an API built with graphql, graphiql, Apollo server, mongoDB, adn reactJS.
+
+## start 
+nodempn app
+The app runs by the port number 4000.
+
+http://localhost:4000/graphql
+
+
+
