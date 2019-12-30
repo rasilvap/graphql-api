@@ -23,6 +23,8 @@ Nodemon
 
 Mongose
 
+create-react-app
+
 
 ![Alt text](client/images/Architecture.png?raw=true "Architecture Diagram")
 
