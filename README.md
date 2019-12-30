@@ -18,7 +18,12 @@ http://localhost:3000/
 ## Adittional libraries to install:
 
 Express
+
 Nodemon 
+
 Mongose
+
+
+![Alt text](client/images/Architecture.png?raw=true "Architecture Diagram")
 
 
