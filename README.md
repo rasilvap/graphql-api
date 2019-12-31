@@ -15,7 +15,7 @@ http://localhost:4000/graphql
 
 http://localhost:3000/
 
-## Adittional libraries to install:
+## Adittional libraries to install with npm:
 
 Express
 
@@ -24,6 +24,10 @@ Nodemon
 Mongose
 
 create-react-app
+
+apollo-boost react-apollo graphql
+
+cors
 
 
 ![Alt text](client/images/Architecture.png?raw=true "Architecture Diagram")
