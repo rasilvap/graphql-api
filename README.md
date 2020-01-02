@@ -29,6 +29,8 @@ apollo-boost react-apollo graphql
 
 cors
 
+lodash
+
 
 ![Alt text](client/images/Architecture.png?raw=true "Architecture Diagram")
 
