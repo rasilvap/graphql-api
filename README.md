@@ -1,6 +1,6 @@
 # graphql-api
 
-This project is an API built with graphql, graphiql, Apollo server, mongoDB, Css adn reactJS.
+This project is an API built with graphql, graphiql, Apollo server, mongoDB, Css adn reactJS without Hooks.
 
 ## start graphql
 nodemon app
